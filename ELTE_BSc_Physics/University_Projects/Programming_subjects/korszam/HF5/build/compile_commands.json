@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/brindza/Desktop/Fizika_6_felev/korszam/HF6/build",
+  "command": "/bin/x86_64-linux-gnu-g++-11   -O3 -DNDEBUG -o CMakeFiles/brindza_hf6.dir/main.cpp.o -c /home/brindza/Desktop/Fizika_6_felev/korszam/HF6/main.cpp",
+  "file": "/home/brindza/Desktop/Fizika_6_felev/korszam/HF6/main.cpp"
+}
+]

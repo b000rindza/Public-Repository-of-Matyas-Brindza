@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/brindza/ELTE-korszam1-2022/HF3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-11   -g -o CMakeFiles/brindza_korszam_hf3.dir/main.cpp.o -c /home/brindza/ELTE-korszam1-2022/HF3/main.cpp",
+  "file": "/home/brindza/ELTE-korszam1-2022/HF3/main.cpp"
+}
+]

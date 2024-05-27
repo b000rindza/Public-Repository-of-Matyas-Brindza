@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-11 -g -rdynamic CMakeFiles/brindza_korszam_hf3.dir/main.cpp.o -o brindza_korszam_hf3 
